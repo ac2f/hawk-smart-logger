@@ -1,0 +1,93 @@
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\rouletteBet2AuthGG.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\rouletteBet2AuthGG.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\rouletteBet.Form1.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Main.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Register.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Login.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\Auth.GG_Winform_Example.Properties.Resources.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\rouletteBet.uyariEkrani.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\rouletteBet2AuthGG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\rouletteBet2AuthGG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\bin\Debug\Auth.GG Winform Example.exe.config
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\bin\Debug\Auth.GG Winform Example.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\bin\Debug\Auth.GG Winform Example.pdb
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\rouletteBet2AuthGG.csproj.CopyComplete
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\Auth.GG Winform Example.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\Auth.GG Winform Example\obj\Debug\Auth.GG Winform Example.pdb
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\rouletteBet.Form1.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Main.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Register.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Login.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\rouletteBet.uyariEkrani.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CopyComplete
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe.config
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.pdb
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Properties.Resources.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.pdb
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Region.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe.config
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.pdb
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\rouletteBet.Form1.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Main.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Region.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Register.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Login.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Properties.Resources.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\rouletteBet.uyariEkrani.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CopyComplete
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.pdb
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe.config
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.pdb
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\WebDriver.dll
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet.Form1.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Main.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Region.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Register.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Login.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Properties.Resources.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet.uyariEkrani.resources
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CopyComplete
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.exe
+C:\Users\user\Desktop\Hawk smart\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.pdb
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe.config
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.exe
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\HawkSmartAuthGG.pdb
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\bin\Debug\WebDriver.dll
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.AssemblyReference.cache
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.SuggestedBindingRedirects.cache
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet.Form1.resources
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Main.resources
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Region.resources
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Register.resources
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\Auth.GG_Winform_Example.Login.resources
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.Properties.Resources.resources
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet.uyariEkrani.resources
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.GenerateResource.cache
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CoreCompileInputs.cache
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\rouletteBet2AuthGG.csproj.CopyComplete
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.exe
+D:\Bionluk.com\altaycan35\dev\rouletteBet2AuthGG-Single_STAKE.COM\rouletteBet2AuthGG\obj\Debug\HawkSmartAuthGG.pdb
